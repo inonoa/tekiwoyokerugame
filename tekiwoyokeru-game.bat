@@ -1,0 +1,1 @@
+start Scripts\pythonw.exe main.py
